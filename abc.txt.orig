@@ -1,0 +1,10 @@
+<?php 
+echo "hellowwwww";
+echo "secopnd comment";
+<<<<<<< HEAD
+echo "tkhird page ";
+=======
+echo "third page edited from master added by dev ";
+>>>>>>> dev
+?>
+
